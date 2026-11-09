@@ -1,0 +1,9 @@
+{
+  "name": "dealer-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "نظام إدارة المعارض",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
